@@ -1,0 +1,31 @@
+
+
+.alert-warning {
+    color: #856404;
+    background-color: #bab49d;
+    /* border-color: #ffeeba; */
+}
+
+.badge-success {
+    color: #fff;
+    background-color: #17a2b8;
+}
+
+.navbar-light .navbar-brand {
+    color: #f8f9fa;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: #f8f9fa;
+}
+
+.navbar-light .navbar-nav .nav-link.active {
+    color: #f8f9fa;
+}
+
+.alert {
+    margin-bottom: 0 !important;
+}
+.card-deck {
+    margin: 0 20px;
+}
